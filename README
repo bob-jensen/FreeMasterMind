@@ -1,11 +1,11 @@
 Free Master Mind  By Bob Jensen
 
-This was and off hours learning project, part HTML 5 investigation, Javascript refresh project,
+This was an off hours learning project, part HTML 5 investigation, Javascript refresh project,
 and a intro into html across laptops, phones and tablets.
 
 I wanted to keep it as simple as possible so no libraries, just the basics.
 
-HTML 5 features I tried.
+HTML 5 features
 1. Save files for off line use, this allows one to play when one is disconnected from the internet.
     + Great for my IPad.
     - Annoying dialog about saving local data on some browsers
@@ -16,11 +16,11 @@ HTML 5 features I tried.
     - Does not work on mobile
 
 3. SVG Scalable Vector Graphics.
-    + Worked great. The old school way would have required 34 images just for the code, hole, balls,
-    red ball in  green hole...  Instead I used SVG instead.  No images required for that.
+    + Worked great. The old school way would have required 34 images just for the code, hole,  and balls.
+    e.g. red ball in  green hole...  Instead I used SVG instead.  No images required for that.
     + Page loads faster
     + Resize SVG items stay crystal clear
-    - Unfortunately many browsers do not support HTML5 SVG yet.
+    - Unfortunately some browsers do not support HTML5 SVG yet.
 
 Master Mind is a classic game, one improvement I made was to eliminate the extra pegs to
 show the clues.  I use the guess hole background color instead.
